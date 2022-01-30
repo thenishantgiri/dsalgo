@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-    int MAXSIZE = 100;
     int arr[100];
 
     cout << "Please enter the size of the array" << endl;
